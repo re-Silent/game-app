@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "react-qr-code": "^2.0.7",
     "autoprefixer": "^10.4.0",
     "framer-motion": "^7.6.11",
     "lucide-react": "^0.327.0",
